@@ -1,75 +1,27 @@
-# 🌟 Tushar Kumar Soni
+# 💫 About Me:
+🔭 I’m currently working on React JS, React Native, and Flutter<br>👯 I’m looking to collaborate on Frontend & Mobile App Development<br>🌱 I’m currently learning Rust<br>💬 Ask me about React Native, Flutter, Flask, and App Development<br>⚡ Fun fact I built an Instagram clone using Flutter!
 
-Welcome to my GitHub profile! I'm a passionate and driven student from Sathyabama University, currently in my 4th year, specializing in App Development. Below, you'll find details about my skills, projects, and experiences. Feel free to explore!
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tushar_ved_tks/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tushar-kumar-soni-18764b334/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@VedSoni-0511) 
 
-## 🛠️ Technologies & Skills
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TusharKrSoniTKS&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TusharKrSoniTKS&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKrSoniTKS&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- **Mobile Development:**
-  - **Flutter:** Building high-performance cross-platform applications.
-  - **React-Native:** Crafting interactive and dynamic mobile experiences.
-- **Backend Development:**
-  - **Flask (Python Web-Framework):** Developing robust and scalable web applications.
-- **Programming Languages:**
-  - **Python:** Versatile and efficient programming.
-  - **C++:** Strong foundation in object-oriented programming.
-- **Tools & Platforms:**
-  - **AWS:** Basic knowledge of cloud services.
-  - **Git & GitHub:** Proficient in version control and collaboration.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TusharKrSoniTKS&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🚀 Current Projects & Experience
-
-### **Impact Analytics (Internship)**
-- **Role:** Frontend Developer
-- **Duration:** February 2024 - Present
-- **Description:** Contributing to impactful analytics applications.
-
-### **Support Room (Mental Health App)**
-- **Role:** Frontend Developer
-- **Framework:** React-Native
-- **Description:** Developed a mental health support platform with a focus on mobile and web interfaces.
-
-### **Instagram Clone**
-- **Framework:** Flutter
-- **Description:** Created an Instagram clone to showcase cross-platform app development skills.
-
-### **Educational Institutions and Online Classroom Management App**
-- **Description:** Designed a scalable app framework with an emphasis on user interface.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TusharKrSoniTKS&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=TusharKrSoniTKS&icon=1&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 Achievements
-
-- **Runner-up** in App Development at the IEEE Silicon Event.
-- **Professional Training** in Flutter from Algofusion Private Limited.
-
----
-
-## 🎓 Education
-
-- **Bachelor of Technology in Computer Science**
-  - **Institution:** Sathyabama Institute of Science and Technology, Chennai
-  - **CGPA:** 8.8 (79%)
-  - **Duration:** 2020 - 2024
-- **Intermediate School**
-  - **Institution:** Aklank Public School, Kota, Rajasthan
-  - **Year:** 2020
-- **Matriculation**
-  - **Institution:** St Arnold's School, Rourkela-Odisha
-  - **Year:** 2018
-
----
-
-## 📫 Contact Me
-
-- **Email:** [tusharsoni9040@gmail.com](mailto:tusharsoni9040@gmail.com)
-- **GitHub:** [TusharKrSoniTKS](https://github.com/TusharKrSoniTKS)
-- **Phone:** +91-8249854849
-
----
-
-Thank you for taking the time to check out my profile. Feel free to connect with me for any opportunities or collaborations!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
